@@ -2,7 +2,7 @@
 
 <div align="justify">
   <h3>About</h3>
-  <p>I have improved myself in Microsoft .NET Framework software technologies with over 10 years of technical experience. My software engineer, senior software engineer and team leader experience includes web-based applications and desktop applications using C # .NET programming language and multilayer Asp.NET Core, Asp.NET MVC 5/4 technologies. I have been in the planning, analysis, design and development stages within the software development life cycle of the projects I worked on. I have successfully worked as a Scrum Master and Product Owner roles in Agile software development processes.</p>
+  <p>I have improved myself in Microsoft .NET Framework software technologies with over 10 years of technical experience. Software engineer, senior software engineer and team leader experience includes web-based applications and desktop applications using C # .NET programming language and multitier architecture Asp.NET Core, Asp.NET MVC 5/4 technologies. I have been in the planning, analysis, design and development stages within the software development life cycle of the projects I worked on. I have successfully worked as a Scrum Master and Product Owner roles in Agile software development processes.</p>
   <h3>Highlights</h3>
   <table>
     <tr>
