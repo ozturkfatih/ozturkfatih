@@ -76,7 +76,7 @@
     </tr>
   </table>
 
-## 🏆 GitHub Trophies
+### GitHub Trophies
   ![](https://github-profile-trophy.vercel.app/?username=ozturkfatih&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
 ### Status
